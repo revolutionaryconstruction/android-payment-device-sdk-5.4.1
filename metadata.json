@@ -1,0 +1,8 @@
+{
+  "name": "Android Payment Device SDK 5.4.1 (Cassiopeia)",
+  "description": "Interactive developer workbench, terminal simulator, and comprehensive API documentation for the NMI ChipDNA Payment Device SDK Release 5.4.1 (Cassiopeia) supporting Ingenico Axium SmartPOS and Tap To Mobile.",
+  "prompt": "Payment Device SDK for Android - Release 5.4.1 Cassiopeia",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
